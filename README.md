@@ -1,0 +1,2 @@
+# Programas-Aritimeticos
+In this project, you will see several folders with simple math problems, whether or not you use the librarian. These are beginning problems that I solved during my apprenticeship in Pyhton. Feel free.     Neste projeto, vocês verão diversas pastas com problemas simples de matemática, usando ou não a bibliotéca. São problemas iniciantes resolvidos por mim durante meu aprendizado em Pyhton. Fiquem a vontade. 
