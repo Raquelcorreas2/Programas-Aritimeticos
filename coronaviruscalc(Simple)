@@ -1,0 +1,11 @@
+n1 = input('Infected: ')
+n2 = input('Cured: ')
+n3 = input('Deaths: ')
+
+if n1.isdigit and n2.isdigit and n2.isdigit:
+    n1 = float(n1)
+    n2 = float(n2)
+    n3 = float(n3)
+    print(f'Total actually infected are: {n1 - (n2+n3):.6}')
+else:
+    print('It's not a number')
